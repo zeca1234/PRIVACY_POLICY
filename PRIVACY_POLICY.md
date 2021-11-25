@@ -1,6 +1,6 @@
 ## Rolma Rol215: Privacy policy
 
-Welcome to the Rolma Rol215 app for Android!
+Welcome to the Rolma Rol215 app for Android & WearOS!
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
